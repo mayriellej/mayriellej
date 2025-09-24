@@ -31,7 +31,7 @@
 ---
 
 ## 📈 GitHub Stats  
-- Coming Soon ;)
+- 🌐 Check out my [Personal Portfolio Website](https://mayriellej.github.io/portfolio/)
 
 ---
 
