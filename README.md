@@ -36,5 +36,5 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayrielle-joy-latigo-979012379)  
+- 💼 [LinkedIn](http://linkedin.com/in/mayrielle-joy-latigo-979012379)  
 - ✉️ Email: *mayriellej@gmail.com*  
