@@ -31,7 +31,7 @@
 ---
 
 ## 📈 GitHub Stats  
-- 🌐 Check out my [Personal Portfolio Website](https://mayriellej.github.io/portfolio/)
+- 🌐 Check out my [Personal Portfolio Website](https://emj4yy.github.io/portfolio/)
 
 ---
 
